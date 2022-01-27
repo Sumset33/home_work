@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,500,700,900,&display=swap");
+
+.promise {
+}
+.promise__container {
+	
+}
+.promise__header {
+	display: flex;
+	flex-direction: column;
+	gap: 33px;
+}
+.promise__lable {
+	background: url("../img/promise/promise__icons/Overline\ Mark.svg") -3px -2px no-repeat;
+}
+.lable-titles {
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 2;
+	align-items: center;
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+	padding-left: 33px;
+}
+.lable-title_blue {
+	color: #5d62b5;
+}
+.title-titles {
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+	margin: 0px 0px 68px 0px;
+}
+.title-titles__black {
+	color: #000000;
+}
+.promise__body {
+}
+.body-promise {
+}
+.body-promise__items {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -12px;
+}
+.body-promise__item {
+	display: flex;
+	flex: 1 1 33.333%;
+	padding: 0 24px;
+}
+.item-promise {
+	display: flex;
+	column-gap: 23px;
+}
+.body-promise__icon {
+	flex: 0 0 63px;
+	
+}
+.body-promise__content {
+}
+.body-promise__title {
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 1.36;
+	color: #f2726f;
+	margin: 0px 0px 20px 0px;
+}
+.body-promise__text {
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.15px;
+	color: #4b4b4b;
+}
